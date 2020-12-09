@@ -22,8 +22,8 @@ I'm **Sander van Ast** A.K.A **[@SANDR7]**, a 18 year old enthousiast programmer
 
 ## 🏓 Get In Touch On ...
 
-[![](https://img.shields.io/badge/@codingverse-informational?style=flat&logo=instagram&logoColor=white&color=8134af)](https://www.instagram.com/codingverse/)
-[![](https://img.shields.io/badge/@saptarshibasu15-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/saptarshibasu15)
+[![](https://img.shields.io/badge/Sander%20van%20Ast-informational?style=flat&logo=linkedin&logoColor=white&color=2867b2)](https://www.linkedin.com/in/sander-van-ast/)
+[![](https://img.shields.io/badge/@SANDR7-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/SANDR7)
 
 ## 📈 Github Stats ...
 
