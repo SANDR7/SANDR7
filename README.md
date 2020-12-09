@@ -2,9 +2,9 @@
 
 ### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, a 18 year old enthousiast programmer 👨‍💻 based in The Netherlands 🇳🇱. My passion lies in web development and mobile development. I'm also a strong interest in graphic design and UI & UX development.
+I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, a 18 year old enthousiast programmer 👨‍💻 based in The Netherlands 🇳🇱. My passion lies in web development and mobile development. I also have a strong interest in graphic design and UI & UX development.
 
-- 🌱 I’m currently learning Progressive Web Apps & native app.
+- 🌱 I’m currently learning Progressive Web Apps & Native App.
 - 📈 I’m currently improving my organization skills.
 - 💬 Ask me about: anything but anime or weeb stuff
 - ⚡ Languages: JavaScript, C#, Scss
