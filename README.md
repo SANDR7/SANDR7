@@ -16,6 +16,7 @@ I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, 
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=javascript&logoColor=white&color=31AF9F)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=31AF9F)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=FF7B47)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=FF7B47)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF7B47)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=FF7B47)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4764FF)
