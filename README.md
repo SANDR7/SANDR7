@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./banner.png" style="border-radius: 12px;">
 
 ### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
