@@ -32,9 +32,7 @@ I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, 
 
 ## 📊 Github Stats
 
-<a href="https://github.com/SANDR7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDR7&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
-</a>
+
 <a href="https://github.com/SANDR7">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SANDR7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
 </a>
