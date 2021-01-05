@@ -6,7 +6,7 @@ I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, 
 
 - 🌱 I’m currently learning Progressive Web Apps & Native App.
 - 📈 I’m currently improving my organization skills.
-- 💬 Ask me about: anything but anime or weeb stuff
+- 💬 Ask me about: anything you want...
 - ⚡ Languages: JavaScript, C#, Scss
 
 ## 🗂 Skill Set 
