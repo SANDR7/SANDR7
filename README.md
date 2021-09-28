@@ -1,8 +1,6 @@
-<img src="./banner.png" style="border-radius: 12px;">
-
 ### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, a 18 year old enthousiast programmer 👨‍💻 based in The Netherlands 🇳🇱. My passion lies in web development and mobile development. I also have a strong interest in graphic design and UI & UX development.
+I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, a 19 year old enthousiast programmer 👨‍💻 based in The Netherlands 🇳🇱. My passion lies in web development and mobile development. I also have a strong interest in graphic design and UI & UX development.
 
 - 🌱 I’m currently learning Progressive Web Apps & Native App.
 - 📈 I’m currently improving my organization skills.
@@ -31,11 +29,6 @@ I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, 
 [![](https://img.shields.io/badge/@XANDR-informational?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discord.com/users/288274960496066560 )
 
 ## 📊 Github Stats
-
-  <a href="https://github.com/SANDR7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDR7&layout=compact&hide_title=1&card_width=300&theme=dark">
-  </a>
-
 <a href="https://github.com/SANDR7">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SANDR7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffeeff&icon_color=FF7B47&bg_color=1d1f21"/>
 </a>
