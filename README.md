@@ -1,5 +1,5 @@
 
-![banner](https://github.com/SANDR7/SANDR7/blob/main/graphic_banner.png);
+![banner](https://github.com/SANDR7/SANDR7/blob/main/graphic_banner.png)
 
 ### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
