@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/SANDR7/SANDR7/blob/main/graphic_banner.png)
 
-### Hey There!,
+### Hey There!
 
 I'm **Sander van Ast** A.K.A **[@SANDR7](https://www.instagram.com/sandr.9/)**, a 19 year old enthousiast programmer 👨‍💻 based in The Netherlands 🇳🇱. My passion lies in web development and mobile development. I also have a strong interest in graphic design and UI & UX development.
 
